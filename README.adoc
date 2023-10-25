@@ -3,4 +3,4 @@
 :sectnums:
 :toc:
 
-= nostro.blog
+== nostro.blog
