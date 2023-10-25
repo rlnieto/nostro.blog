@@ -1,0 +1,6 @@
+:icons: font
+:source-highlighter: highlightjs
+:sectnums:
+:toc:
+
+== nostro.blog
